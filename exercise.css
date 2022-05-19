@@ -1,0 +1,94 @@
+.thumb1{
+    width: 200px;
+    border-radius: 16px;
+}
+.thumb2{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+.thumb3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+}
+.search-bar1{
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+.search-bar2{
+
+font-size: 16px;
+    width: 500px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.Email-text{
+    margin-top: 6px;
+    margin-bottom: 4px;
+}
+.email{
+    width: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 4px;
+    margin-bottom: 6px;
+}
+.click{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.agree{
+    background-color: rgba(4, 86, 200, 0.922);
+    margin-top: 4px;
+    width: 262px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 16px;
+    color: white;
+    border: none;
+}
+.thumb4{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-right: 5px;
+}
+.happen{
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+}
+.tweet{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+}
